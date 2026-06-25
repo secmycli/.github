@@ -61,7 +61,7 @@ We specialize in protecting organizations where security breaches mean disrupted
 
 ## 🚀 Ready to Secure Your Business?
 
-👉 [**Request Sample Report & Get a Quote**](YOUR_GOOGLE_FORM_LINK)  
+👉 [**Request Sample Report & Get a Quote**](https://forms.gle/2Ycgj6GNvcsUA2ph8)  
 *Get an instant look at our professional testing format and schedule a direct consultation.*
 
 ---
