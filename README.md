@@ -57,3 +57,19 @@ Are you prepping for a compliance audit, onboarding a major client, or launching
 *   **Founder:** Suvam Chowdhury
 *   **Email:** secmycli.security@gmail.com
 *   **LinkedIn:** [linkedin.com/in/suvamchowdhury](https://www.linkedin.com/in/suvamchowdhury/)
+
+---
+
+## 📅 How We Work (Simple 4-Step Process)
+
+1. **Request a Sample Report:** Fill out our brief intake form to review our past work and testing depth.
+2. **Scoping Call:** Book a direct 15-minute technical call with the assessor to understand your infrastructure.
+3. **Custom Quote & Onboarding:** Receive a fixed-price proposal based on your asset size (30% advance to kickstart the project).
+4. **Execution & Delivery:** We find the flaws, deliver the blueprint, and perform free revalidation once you fix them.
+
+---
+
+## 🚀 Ready to Secure Your Business?
+
+👉 [**Request Sample Report & Get a Quote**](YOUR_GOOGLE_FORM_LINK)  
+*Get an instant look at our professional testing format and schedule a direct consultation.*
