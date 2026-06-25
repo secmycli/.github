@@ -50,16 +50,6 @@ We specialize in protecting organizations where security breaches mean disrupted
 
 ---
 
-## 📬 Let's Secure Your Business
-
-Are you prepping for a compliance audit, onboarding a major client, or launching a new app/portal? Let's talk.
-
-*   **Founder:** Suvam Chowdhury
-*   **Email:** secmycli.security@gmail.com
-*   **LinkedIn:** [linkedin.com/in/suvamchowdhury](https://www.linkedin.com/in/suvamchowdhury/)
-
----
-
 ## 📅 How We Work (Simple 4-Step Process)
 
 1. **Request a Sample Report:** Fill out our brief intake form to review our past work and testing depth.
@@ -73,3 +63,16 @@ Are you prepping for a compliance audit, onboarding a major client, or launching
 
 👉 [**Request Sample Report & Get a Quote**](YOUR_GOOGLE_FORM_LINK)  
 *Get an instant look at our professional testing format and schedule a direct consultation.*
+
+---
+
+## 📬 Let's Secure Your Business
+
+Are you prepping for a compliance audit, onboarding a major client, or launching a new app/portal? Let's talk.
+
+*   **Founder:** Suvam Chowdhury
+*   **Email:** secmycli.security@gmail.com
+*   **LinkedIn:** [linkedin.com/in/suvamchowdhury](https://www.linkedin.com/in/suvamchowdhury/)
+
+---
+
